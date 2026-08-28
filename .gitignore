@@ -9,3 +9,8 @@ coverage/
 .idea/
 .vscode/
 *.tsbuildinfo
+
+# Arquivos de acompanhamento interno do processo (aluno + IA), fora do escopo da entrega
+DESAFIO.md
+PENDENCIAS.md
+PROGRESSO.md
